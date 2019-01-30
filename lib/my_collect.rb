@@ -6,7 +6,6 @@ end
    languages.collect do |languages|
      languages.upcase
    end
-   name.split(" ").first
  end
 
   
